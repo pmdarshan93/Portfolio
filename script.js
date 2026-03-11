@@ -39,14 +39,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 let projects = [
-    { img: "images/ace.png", title: "AccessAce", description: "Access token Management tool", projectTech: ["OM", "Node.js", "Mysql"], code: "", demo: "", category: ["all", "om"] },
+    { img: "images/ace.png", title: "AccessAce (Group Project)", description: "Access token Management tool", projectTech: ["OM", "Node.js", "Mysql"], code: "https://github.com/pmdarshan93/AccessAce", demo: "", category: ["all", "om","group"]},
     { img: "images/passwor.png", title: "Password Management", description: "Password management tool using Mysql DB", projectTech: ["Java", "Mysql"], code: "https://github.com/pmdarshan93/Java-Advance-Assignments/tree/master/vault", demo: "", category: ["all", "java"] },
     { img: "images/Treeset.png", title: "Contact Management", description: "Tree set own implementation", projectTech: ["Java"], code: "https://github.com/pmdarshan93/Java-Advance-Assignments/tree/master/dataStructure", demo: "", category: ["all", "java"] },
     { img: "images/pomo.png", title: "Pomodoro Timer", description: "Time Mangement tool based on Pomodoro technique", projectTech: ["JS", "Html", "Css"], code: "", category: ["all", "js"], demo: "https://darshanpm-5874l0qu-8443.zcodecorp.in/Js%20Assignment/POMO%20FOCUS/" },
-    { img: "images/cal.png", title: "Nutrition Calculator", description: "Calculate nutrition of your food", projectTech: ["JS", "Html", "Css"], code: "https://github.com/pmdarshan93/Advance-Java-Script-Assignments/tree/master/Node%20Js/assignment/assignment%20webdriver", demo: "", category: ["all", "node"] },
+    { img: "images/calc.png", title: "Nutrition Calculator", description: "Calculate nutrition of your food", projectTech: ["JS", "Html", "Css"], code: "https://github.com/pmdarshan93/Advance-Java-Script-Assignments/tree/master/Node%20Js/assignment/assignment%20webdriver", demo: "", category: ["all", "node"] },
     { img: "images/diving.png", title: "Scuba Diving ", description: "Diving school page", projectTech: ["Html", "Css"], code: "", demo: "https://darshanpm-5874l0qu-8443.zcodecorp.in/project%20main/project.html", category: ["all", "html"] },
     { img: "images/planet-earth.svg", title: "Planet", description: "Planet page using ejs", projectTech: ["Html", "Css", "Node.js"], code: "https://github.com/pmdarshan93/Advance-Java-Script-Assignments/tree/master/Node%20Js/assignment/assignment%20planet", demo: "", category: ["node"] },
-    { img: "images/stone.png", title: "Stone Paper Scissor", description: "Game using socket.io", projectTech: ["Html", "Css", "Node", "socket"], code: "https://github.com/pmdarshan93/Advance-Java-Script-Assignments/tree/master/Node%20Js/assignment/assignment%20game", demo: "", category: ["node"] },
+    { img: "images/stone.png", title: "Stone Paper Scissor", description: "Two player mode using socket.io", projectTech: ["Html", "Css", "Node", "socket"], code: "https://github.com/pmdarshan93/Advance-Java-Script-Assignments/tree/master/Node%20Js/assignment/assignment%20game", demo: "", category: ["node"] },
     { img: "images/passwor.png", title: "Password Management", description: "Password Mangement system using File", projectTech: ["Java", "File"], code: "https://github.com/pmdarshan93/Zs-Vault", demo: "", category: ["java"] },
     { img: "images/stone.png", title: "Stone paper Scissor", description: "Stone paper scissor game", projectTech: ["Html", "Css", "JS"], code: "", demo: "https://darshanpm-5874l0qu-8443.zcodecorp.in/Js%20Assignment/Assignment%20014/assignment14.html", category: ["js"] },
     { img: "images/bank.png", title: "Bank", description: "Oops and storage in js", projectTech: ["Html", "Css", "JS"], code: "", demo: "https://darshanpm-5874l0qu-8443.zcodecorp.in/AJAX%20Assignment/assignment004/", category: ["js"] },
@@ -59,6 +59,7 @@ let projects = [
     { img: "images/bufo.png", title: "Bufo Merge", description: "POKI website game recreation", projectTech: ["scratch"], code: "", demo: "https://scratch.mit.edu/projects/1192007563/", category: ["scratch"] },
     { img: "images/shark.png", title: "Fish Catching", description: "POKI website game recreation", projectTech: ["scratch"], code: "", demo: "https://scratch.mit.edu/projects/1182870285/editor", category: ["scratch"] },
     { img: "images/smaths.png", title: "Maths Spirography", description: "Maths Diagram", projectTech: ["scratch"], code: "", demo: "https://scratch.mit.edu/projects/1186404114/", category: ["scratch"] },
+    { img: "images/expresident.png", title: "Ramnath Kovind", description: "A memorable gift for ex - president.", projectTech: ["html","css","js"], code: "", demo: "https://cherry6628.github.io/RamNathKovindWebsite/", category: ["all","group"] }
 
 ]
 
