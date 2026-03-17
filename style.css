@@ -536,7 +536,7 @@ a {
 
 
 
-@media screen and (max-width : 375px) {
+@media screen and (max-width : 475px) {
     .sidebar {
         width: 100%;
     }
@@ -546,8 +546,13 @@ a {
     }
 
     .personalInfo p{
-        font-size: 14px ;
-        line-height: 22px;
+        font-size: 20px ;
+        line-height: 26px;
+        text-align: center;
+    }
+
+    .personalInfo h4{
+        text-align: center;
     }
 
     .personalInfo h2,.personalInfo h1{
